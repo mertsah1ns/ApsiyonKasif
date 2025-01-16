@@ -1,0 +1,6 @@
+@ApsionKasif.API_HostAddress = http://localhost:5185
+
+GET {{ApsionKasif.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
